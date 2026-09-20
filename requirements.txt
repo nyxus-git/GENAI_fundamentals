@@ -1,8 +1,11 @@
 langchain
 langchain-openai
-dotenv
+python-dotenv
+jupyter
+ipykernel
 langchain[google-genai]
 langchain[anthropic]
 langchain-google-genai
 streamlit
 langchain-ollama
+langchain-groq
