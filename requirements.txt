@@ -9,3 +9,4 @@ langchain-google-genai
 streamlit
 langchain-ollama
 langchain-groq
+langchain-community
